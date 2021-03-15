@@ -1,0 +1,22 @@
+.location-input{
+    background-color: rgb(255, 255, 255);
+    padding:10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 9px 1px #ccc;
+}
+.location-input p{
+    margin: 0;
+    font-weight: bold;
+}
+.location-input input{
+    border: none;
+    outline: none;
+}
+.start-end p{
+    color: #ccc;
+    margin: 0px;
+}
+.start-end input{
+    border: none;
+    outline: none;
+}
